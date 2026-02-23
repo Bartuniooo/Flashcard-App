@@ -22,16 +22,22 @@ To not pay for quizlet subsrciption create an app which is best for me. Simple, 
 
 ---
 
+## 🧠 What I learned
+
+---
+
 ## ⏩ Demo
 
 video
---
+
+---
 
 ## 📦 Installation & Running
 
 ```bash
-dodać
+git clone https://github.com/Bartuniooo/Flashcard-App.git
 ```
+
 
 
 
